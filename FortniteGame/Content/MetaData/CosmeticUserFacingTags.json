@@ -1,0 +1,236 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CosmeticUserFacingTags",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'CosmeticMarkupTagDataRow'",
+        "ObjectPath": "/Script/FortniteGame"
+      }
+    },
+    "Rows": {
+      "Cosmetics.UserFacingFlags.Emote.Traversal": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.Emote.Traversal"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Emote.Traversal_DisplayName",
+          "SourceString": "Traversal",
+          "LocalizedString": "Traversal"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Emote.Traversal_HelpText",
+          "SourceString": "[ph]",
+          "LocalizedString": "[ph]"
+        }
+      },
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.HasUpgradeQuests"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.HasUpgradeQuests_DisplayName",
+          "SourceString": "Unlockable Styles",
+          "LocalizedString": "Unlockable Styles"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.HasUpgradeQuests_HelpText",
+          "SourceString": "This item includes quests to unlock additional styles",
+          "LocalizedString": "This item includes quests to unlock additional styles"
+        }
+      },
+      "Cosmetics.UserFacingFlags.HasVariants": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.HasVariants"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.HasVariants_DisplayName",
+          "SourceString": "Selectable Styles",
+          "LocalizedString": "Selectable Styles"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.HasVariants_HelpText",
+          "SourceString": "This item has variations that can be selected",
+          "LocalizedString": "This item has variations that can be selected"
+        }
+      },
+      "Cosmetics.UserFacingFlags.Reactive": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.Reactive"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Reactive_DisplayName",
+          "SourceString": "Reactive",
+          "LocalizedString": "Reactive"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Reactive_HelpText",
+          "SourceString": "This item visually changes during a match based on in-game performance",
+          "LocalizedString": "This item visually changes during a match based on in-game performance"
+        }
+      },
+      "Cosmetics.UserFacingFlags.LoadingScreen.Animated": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.LoadingScreen.Animated"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.LoadingScreen.Animated_DisplayName",
+          "SourceString": "Animated",
+          "LocalizedString": "Animated"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.LoadingScreen.Animated_HelpText",
+          "SourceString": "This item animates while being displayed",
+          "LocalizedString": "This item animates while being displayed"
+        }
+      },
+      "Cosmetics.UserFacingFlags.Spray.Animated": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.Spray.Animated"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Spray.Animated_DisplayName",
+          "SourceString": "Animated",
+          "LocalizedString": "Animated"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Spray.Animated_HelpText",
+          "SourceString": "This item animates while being displayed",
+          "LocalizedString": "This item animates while being displayed"
+        }
+      },
+      "Cosmetics.UserFacingFlags.Wrap.Animated": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.Wrap.Animated"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Wrap.Animated_DisplayName",
+          "SourceString": "Animated",
+          "LocalizedString": "Animated"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Wrap.Animated_HelpText",
+          "SourceString": "This item animates while being displayed",
+          "LocalizedString": "This item animates while being displayed"
+        }
+      },
+      "Cosmetics.UserFacingFlags.Emoticon.Animated": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.Emoticon.Animated"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Emoticon.Animated_DisplayName",
+          "SourceString": "Animated",
+          "LocalizedString": "Animated"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Emoticon.Animated_HelpText",
+          "SourceString": "This item animates while being displayed",
+          "LocalizedString": "This item animates while being displayed"
+        }
+      },
+      "Cosmetics.UserFacingFlags.Enlightened": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.Enlightened"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Enlightened_DisplayName",
+          "SourceString": "Enlightened",
+          "LocalizedString": "Enlightened"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Enlightened_HelpText",
+          "SourceString": "This item has a style which visually changes based on the Battle Pass level from the season in which it was released",
+          "LocalizedString": "This item has a style which visually changes based on the Battle Pass level from the season in which it was released"
+        }
+      },
+      "Cosmetics.UserFacingFlags.GearUp": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.GearUp"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.GearUp_DisplayName",
+          "SourceString": "Forged",
+          "LocalizedString": "Forged"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.GearUp_HelpText",
+          "SourceString": "This item has extra layers of customization",
+          "LocalizedString": "This item has extra layers of customization"
+        }
+      },
+      "Cosmetics.UserFacingFlags.BuiltInEmote": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.BuiltInEmote"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.BuiltInEmote_DisplayName",
+          "SourceString": "Built-in",
+          "LocalizedString": "Built-in"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.BuiltInEmote_HelpText",
+          "SourceString": "This item has access to special cosmetic content while equipped",
+          "LocalizedString": "This item has access to special cosmetic content while equipped"
+        }
+      },
+      "Cosmetics.UserFacingFlags.Synced": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.Synced"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Synced_DisplayName",
+          "SourceString": "Synced Emote",
+          "LocalizedString": "Synced Emote"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Synced_HelpText",
+          "SourceString": "This item can be synced with other players",
+          "LocalizedString": "This item can be synced with other players"
+        }
+      },
+      "Cosmetics.UserFacingFlags.Transform": {
+        "tag": {
+          "TagName": "Cosmetics.UserFacingFlags.Transform"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Transform_DisplayName",
+          "SourceString": "Transformation",
+          "LocalizedString": "Transformation"
+        },
+        "HelpText": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Transform_HelpText",
+          "SourceString": "This item has a tied in emote that alters outfit",
+          "LocalizedString": "This item has a tied in emote that alters outfit"
+        }
+      }
+    }
+  }
+]

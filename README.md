@@ -1,1 +1,3 @@
-Just wanted a readme so the button won't piss me off
+## Fort-Tracker
+
+A ini tracker for Fortnite

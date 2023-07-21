@@ -3,6 +3,7 @@
     "Type": "CurveTable",
     "Name": "CashPricingItemDef",
     "Class": "UScriptClass'CurveTable'",
+    "CurveTableMode": "SimpleCurves",
     "Rows": {
       "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsLight.AthenaAmmoDataBulletsLight": {
         "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
@@ -9102,6 +9103,534 @@
           {
             "Time": 6.0,
             "Value": 600.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/Game/Athena/Items/Consumables/Flopper/Thermal/WID_Athena_Flopper_Thermal.WID_Athena_Flopper_Thermal": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 400.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/PanRifle/WID_Assault_Chrono_Pan_Rifle_Athena_C.WID_Assault_Chrono_Pan_Rifle_Athena_C": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/PanRifle/WID_Assault_Chrono_Pan_Rifle_Athena_UC.WID_Assault_Chrono_Pan_Rifle_Athena_UC": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/PanRifle/WID_Assault_Chrono_Pan_Rifle_Athena_R.WID_Assault_Chrono_Pan_Rifle_Athena_R": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/PanRifle/WID_Assault_Chrono_Pan_Rifle_Athena_VR.WID_Assault_Chrono_Pan_Rifle_Athena_VR": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/PanRifle/WID_Assault_Chrono_Pan_Rifle_Athena_SR.WID_Assault_Chrono_Pan_Rifle_Athena_SR": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/ThermalDMR/WID_DMR_Chrono_ToggleThermal_Athena_C.WID_DMR_Chrono_ToggleThermal_Athena_C": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/ThermalDMR/WID_DMR_Chrono_ToggleThermal_Athena_UC.WID_DMR_Chrono_ToggleThermal_Athena_UC": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/ThermalDMR/WID_DMR_Chrono_ToggleThermal_Athena_R.WID_DMR_Chrono_ToggleThermal_Athena_R": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/ThermalDMR/WID_DMR_Chrono_ToggleThermal_Athena_VR.WID_DMR_Chrono_ToggleThermal_Athena_VR": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/ThermalDMR/WID_DMR_Chrono_ToggleThermal_Athena_SR.WID_DMR_Chrono_ToggleThermal_Athena_SR": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/AncientWeapon/Gameplay/WID_Chrono_AncientWeapon.WID_Chrono_AncientWeapon": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 250.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 250.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoCloak/Cloak/WID_Chrono_Cloak.WID_Chrono_Cloak": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 400.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/FlipperGameplay/Items/Weapons/RedDotARS25/WID_Assault_Chrono_RedDotAR_Athena_C.WID_Assault_Chrono_RedDotAR_Athena_C": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/FlipperGameplay/Items/Weapons/RedDotARS25/WID_Assault_Chrono_RedDotAR_Athena_UC.WID_Assault_Chrono_RedDotAR_Athena_UC": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/FlipperGameplay/Items/Weapons/RedDotARS25/WID_Assault_Chrono_RedDotAR_Athena_R.WID_Assault_Chrono_RedDotAR_Athena_R": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/FlipperGameplay/Items/Weapons/RedDotARS25/WID_Assault_Chrono_RedDotAR_Athena_VR.WID_Assault_Chrono_RedDotAR_Athena_VR": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/FlipperGameplay/Items/Weapons/RedDotARS25/WID_Assault_Chrono_RedDotAR_Athena_SR.WID_Assault_Chrono_RedDotAR_Athena_SR": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_C.WID_Sniper_ExplosiveRepeater_Athena_C": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_UC.WID_Sniper_ExplosiveRepeater_Athena_UC": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_R.WID_Sniper_ExplosiveRepeater_Athena_R": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_VR.WID_Sniper_ExplosiveRepeater_Athena_VR": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_SR.WID_Sniper_ExplosiveRepeater_Athena_SR": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 50.0
+          },
+          {
+            "Time": 2.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 4.0,
+            "Value": 400.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 800.0
           }
         ],
         "DefaultValue": 3.4028235E+38,

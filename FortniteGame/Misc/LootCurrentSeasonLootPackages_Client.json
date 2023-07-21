@@ -2710,6 +2710,106 @@
         "bAllowBonusDrops": true,
         "Annotation": ";Def:WorldPKG.HeistBoss.Ace.Loot.C3;Call:WorldList.HeistBoss.Ace.KeyCard"
       },
+      "WorldPKG.Boss.ChronoJungle.Loot.01": {
+        "LootPackageID": "WorldPKG.Boss.ChronoJungle.Loot",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "WorldList.JungleBoss.Wep",
+        "ItemDefinition": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";Def:WorldPKG.Boss.ChronoJungle.Loot.C0;Call:WorldList.JungleBoss.Wep"
+      },
+      "WorldPKG.Boss.ChronoJungle.Loot.02": {
+        "LootPackageID": "WorldPKG.Boss.ChronoJungle.Loot",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 1,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "WorldList.JungleBoss.CloakDevice",
+        "ItemDefinition": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";Def:WorldPKG.Boss.ChronoJungle.Loot.C1;Call:WorldList.JungleBoss.CloakDevice"
+      },
+      "WorldPKG.Boss.ChronoJungle.Loot.03": {
+        "LootPackageID": "WorldPKG.Boss.ChronoJungle.Loot",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 2,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "WorldList.AthenaLoot.Ammo.Medium",
+        "ItemDefinition": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";Def:WorldPKG.Boss.ChronoJungle.Loot.C2;Call:WorldList.AthenaLoot.Ammo.Medium"
+      },
+      "WorldPKG.Boss.ChronoJungle.Loot.04": {
+        "LootPackageID": "WorldPKG.Boss.ChronoJungle.Loot",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 3,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "WorldList.Boss.Consumables",
+        "ItemDefinition": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";Def:WorldPKG.Boss.ChronoJungle.Loot.C3;Call:WorldList.Boss.Consumables"
+      },
+      "WorldPKG.Boss.ChronoJungle.Loot.05": {
+        "LootPackageID": "WorldPKG.Boss.ChronoJungle.Loot",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 4,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "WorldList.JungleBoss.Misc",
+        "ItemDefinition": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";Def:WorldPKG.Boss.ChronoJungle.Loot.C4;Call:WorldList.JungleBoss.Misc"
+      },
       "WorldPKG.Boss.CloneBunker.Loot.01": {
         "LootPackageID": "WorldPKG.Boss.CloneBunker.Loot",
         "Weight": 1.0,
@@ -8972,7 +9072,7 @@
       },
       "NPCItemPKG.S25.HeavySniperRifle.01": {
         "LootPackageID": "NPCItemPKG.S25.HeavySniperRifle",
-        "Weight": 1.0,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -9349,6 +9449,126 @@
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
         "Annotation": ";Def:NPCItemPKG.S25.Grenade.C0;Call:NPCItemList.S25.Grenade"
+      },
+      "NPCItemPKG.S25.HavocSuppressedAR.01": {
+        "LootPackageID": "NPCItemPKG.S25.HavocSuppressedAR",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "NPCItemList.S25.HavocSuppressedAR",
+        "ItemDefinition": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";Def:NPCItemPKG.S25.HavocSuppressedAR.C0;Call:NPCItemList.S25.HavocSuppressedAR"
+      },
+      "NPCItemPKG.S25.FishingRod.01": {
+        "LootPackageID": "NPCItemPKG.S25.FishingRod",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "NPCItemList.S25.FishingRod",
+        "ItemDefinition": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";Def:NPCItemPKG.S25.FishingRod.C0;Call:NPCItemList.S25.FishingRod"
+      },
+      "NPCItemPKG.S25.ShieldFish.01": {
+        "LootPackageID": "NPCItemPKG.S25.ShieldFish",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "NPCItemList.S25.ShieldFish",
+        "ItemDefinition": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";Def:NPCItemPKG.S25.ShieldFish.C0;Call:NPCItemList.S25.ShieldFish"
+      },
+      "NPCItemPKG.S25.Flopper.01": {
+        "LootPackageID": "NPCItemPKG.S25.Flopper",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "NPCItemList.S25.Flopper",
+        "ItemDefinition": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";Def:NPCItemPKG.S25.Flopper.C0;Call:NPCItemList.S25.Flopper"
+      },
+      "NPCItemPKG.S25.CloakingDevice.01": {
+        "LootPackageID": "NPCItemPKG.S25.CloakingDevice",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "NPCItemList.S25.CloakingDevice",
+        "ItemDefinition": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";Def:NPCItemPKG.S25.CloakingDevice.C0;Call:NPCItemList.S25.CloakingDevice"
+      },
+      "NPCItemPKG.S25.ExplosiveRepeater.01": {
+        "LootPackageID": "NPCItemPKG.S25.ExplosiveRepeater",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "NPCItemList.S25.ExplosiveRepeater",
+        "ItemDefinition": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";Def:NPCItemPKG.S25.ExplosiveRepeater.C0;Call:NPCItemList.S25.ExplosiveRepeater"
       },
       "WorldList.AthenaTest.01": {
         "LootPackageID": "WorldList.AthenaTest",
@@ -9881,7 +10101,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoConsumables/Gameplay/SlapSplash/WID_Chrono_SlapSplash.WID_Chrono_SlapSplash",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -10721,7 +10941,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_UC.WID_Shotgun_Chrono_Athena_UC",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -10741,7 +10961,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_R.WID_Shotgun_Chrono_Athena_R",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -11561,7 +11781,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_UC.WID_Shotgun_Chrono_Athena_UC",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -11581,7 +11801,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_R.WID_Shotgun_Chrono_Athena_R",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -11601,7 +11821,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_VR.WID_Shotgun_Chrono_Athena_VR",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -11621,7 +11841,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_SR.WID_Shotgun_Chrono_Athena_SR",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -13552,7 +13772,7 @@
       },
       "WorldList.AthenaLoot.Weapon.AssaultAuto.17": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.AssaultAuto",
-        "Weight": 1.0,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -13572,7 +13792,7 @@
       },
       "WorldList.AthenaLoot.Weapon.AssaultAuto.18": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.AssaultAuto",
-        "Weight": 0.4,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -13592,7 +13812,7 @@
       },
       "WorldList.AthenaLoot.Weapon.AssaultAuto.19": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.AssaultAuto",
-        "Weight": 0.07,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -14052,7 +14272,7 @@
       },
       "WorldList.AthenaLoot.Weapon.AssaultAuto.42": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.AssaultAuto",
-        "Weight": 0.0,
+        "Weight": 1.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -14072,7 +14292,7 @@
       },
       "WorldList.AthenaLoot.Weapon.AssaultAuto.43": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.AssaultAuto",
-        "Weight": 0.0,
+        "Weight": 0.4,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -14092,7 +14312,7 @@
       },
       "WorldList.AthenaLoot.Weapon.AssaultAuto.44": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.AssaultAuto",
-        "Weight": 0.0,
+        "Weight": 0.07,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -14592,7 +14812,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighAssaultAuto.24": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighAssaultAuto",
-        "Weight": 0.4,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -14612,7 +14832,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighAssaultAuto.25": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighAssaultAuto",
-        "Weight": 0.07,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -14632,7 +14852,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighAssaultAuto.26": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighAssaultAuto",
-        "Weight": 0.016,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -14652,7 +14872,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighAssaultAuto.27": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighAssaultAuto",
-        "Weight": 0.004,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15272,7 +15492,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighAssaultAuto.58": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighAssaultAuto",
-        "Weight": 0.0,
+        "Weight": 0.4,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15292,7 +15512,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighAssaultAuto.59": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighAssaultAuto",
-        "Weight": 0.0,
+        "Weight": 0.07,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15312,7 +15532,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighAssaultAuto.60": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighAssaultAuto",
-        "Weight": 0.0,
+        "Weight": 0.016,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15332,7 +15552,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighAssaultAuto.61": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighAssaultAuto",
-        "Weight": 0.0,
+        "Weight": 0.004,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15352,7 +15572,7 @@
       },
       "WorldList.AthenaLoot.Weapon.Sniper.01": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.Sniper",
-        "Weight": 0.07,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15392,7 +15612,7 @@
       },
       "WorldList.AthenaLoot.Weapon.Sniper.03": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.Sniper",
-        "Weight": 0.0,
+        "Weight": 0.4,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15401,7 +15621,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_UC.WID_Sniper_ExplosiveRepeater_Athena_UC",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -15412,6 +15632,26 @@
       },
       "WorldList.AthenaLoot.Weapon.Sniper.04": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.Sniper",
+        "Weight": 0.07,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_R.WID_Sniper_ExplosiveRepeater_Athena_R",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.Weapon.Sniper.C0;Item:WID.Sniper.ExplosiveRepeater.R"
+      },
+      "WorldList.AthenaLoot.Weapon.Sniper.05": {
+        "LootPackageID": "WorldList.AthenaLoot.Weapon.Sniper",
         "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
@@ -15421,18 +15661,18 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_R_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_R_Ore_T03",
           "SubPathString": ""
         },
         "PersistentLevel": "",
         "MinWorldLevel": -1,
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
-        "Annotation": ";List:WorldList.AthenaLoot.Weapon.Sniper.C0;Item:WID.Sniper.ExplosiveRepeater.R"
+        "Annotation": ";List:WorldList.AthenaLoot.Weapon.Sniper.C0;Item:WID.Sniper.Suppressed.Scope.Athena.R.Ore.T03"
       },
       "WorldList.AthenaLoot.Weapon.HighSniper.01": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighSniper",
-        "Weight": 0.07,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15452,7 +15692,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighSniper.02": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighSniper",
-        "Weight": 0.016,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15472,7 +15712,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighSniper.03": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighSniper",
-        "Weight": 0.004,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15552,7 +15792,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighSniper.07": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighSniper",
-        "Weight": 0.0,
+        "Weight": 0.4,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15561,7 +15801,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_UC.WID_Sniper_ExplosiveRepeater_Athena_UC",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -15572,7 +15812,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighSniper.08": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighSniper",
-        "Weight": 0.0,
+        "Weight": 0.07,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15581,7 +15821,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_R.WID_Sniper_ExplosiveRepeater_Athena_R",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -15592,7 +15832,7 @@
       },
       "WorldList.AthenaLoot.Weapon.HighSniper.09": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighSniper",
-        "Weight": 0.0,
+        "Weight": 0.016,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -15601,7 +15841,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_VR.WID_Sniper_ExplosiveRepeater_Athena_VR",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -15612,6 +15852,26 @@
       },
       "WorldList.AthenaLoot.Weapon.HighSniper.10": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.HighSniper",
+        "Weight": 0.004,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_SR.WID_Sniper_ExplosiveRepeater_Athena_SR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.Weapon.HighSniper.C0;Item:WID.Sniper.ExplosiveRepeater.SR"
+      },
+      "WorldList.AthenaLoot.Weapon.HighSniper.11": {
+        "LootPackageID": "WorldList.AthenaLoot.Weapon.HighSniper",
         "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
@@ -15621,14 +15881,54 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_R_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_R_Ore_T03",
           "SubPathString": ""
         },
         "PersistentLevel": "",
         "MinWorldLevel": -1,
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
-        "Annotation": ";List:WorldList.AthenaLoot.Weapon.HighSniper.C0;Item:WID.Sniper.ExplosiveRepeater.SR"
+        "Annotation": ";List:WorldList.AthenaLoot.Weapon.HighSniper.C0;Item:WID.Sniper.Suppressed.Scope.Athena.R.Ore.T03"
+      },
+      "WorldList.AthenaLoot.Weapon.HighSniper.12": {
+        "LootPackageID": "WorldList.AthenaLoot.Weapon.HighSniper",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.Weapon.HighSniper.C0;Item:WID.Sniper.Suppressed.Scope.Athena.VR.Ore.T03"
+      },
+      "WorldList.AthenaLoot.Weapon.HighSniper.13": {
+        "LootPackageID": "WorldList.AthenaLoot.Weapon.HighSniper",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.AthenaLoot.Weapon.HighSniper.C0;Item:WID.Sniper.Suppressed.Scope.Athena.SR.Ore.T03"
       },
       "WorldList.AthenaLoot.Weapon.Crossbow.01": {
         "LootPackageID": "WorldList.AthenaLoot.Weapon.Crossbow",
@@ -16210,6 +16510,46 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:WorldList.ApolloLoot.Weapon.HighShotgun.C0;Item:WID.Shotgun.AutoDrum.Athena.SR.Ore.T03"
       },
+      "WorldList.ApolloLoot.Weapon.HighShotgun.15": {
+        "LootPackageID": "WorldList.ApolloLoot.Weapon.HighShotgun",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_VR.WID_Shotgun_Chrono_Athena_VR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.ApolloLoot.Weapon.HighShotgun.C0;Item:WID.Shotgun.Chrono.Athena.VR"
+      },
+      "WorldList.ApolloLoot.Weapon.HighShotgun.16": {
+        "LootPackageID": "WorldList.ApolloLoot.Weapon.HighShotgun",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_SR.WID_Shotgun_Chrono_Athena_SR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.ApolloLoot.Weapon.HighShotgun.C0;Item:WID.Shotgun.Chrono.Athena.SR"
+      },
       "WorldList.ApolloLoot.Weapon.SMG.01": {
         "LootPackageID": "WorldList.ApolloLoot.Weapon.SMG",
         "Weight": 0.75,
@@ -16572,7 +16912,7 @@
       },
       "WorldList.ApolloLoot.Weapon.AssaultAuto.09": {
         "LootPackageID": "WorldList.ApolloLoot.Weapon.AssaultAuto",
-        "Weight": 0.75,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -16592,7 +16932,7 @@
       },
       "WorldList.ApolloLoot.Weapon.AssaultAuto.10": {
         "LootPackageID": "WorldList.ApolloLoot.Weapon.AssaultAuto",
-        "Weight": 0.25,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -16772,7 +17112,7 @@
       },
       "WorldList.ApolloLoot.Weapon.AssaultAuto.19": {
         "LootPackageID": "WorldList.ApolloLoot.Weapon.AssaultAuto",
-        "Weight": 0.0,
+        "Weight": 0.75,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -16792,7 +17132,7 @@
       },
       "WorldList.ApolloLoot.Weapon.AssaultAuto.20": {
         "LootPackageID": "WorldList.ApolloLoot.Weapon.AssaultAuto",
-        "Weight": 0.0,
+        "Weight": 0.25,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -16812,7 +17152,7 @@
       },
       "WorldList.ApolloLoot.Weapon.Sniper.01": {
         "LootPackageID": "WorldList.ApolloLoot.Weapon.Sniper",
-        "Weight": 0.75,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -16832,7 +17172,7 @@
       },
       "WorldList.ApolloLoot.Weapon.Sniper.02": {
         "LootPackageID": "WorldList.ApolloLoot.Weapon.Sniper",
-        "Weight": 0.25,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -16852,7 +17192,7 @@
       },
       "WorldList.ApolloLoot.Weapon.Sniper.03": {
         "LootPackageID": "WorldList.ApolloLoot.Weapon.Sniper",
-        "Weight": 0.0,
+        "Weight": 0.75,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -16861,7 +17201,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_VR.WID_Sniper_ExplosiveRepeater_Athena_VR",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -16872,6 +17212,26 @@
       },
       "WorldList.ApolloLoot.Weapon.Sniper.04": {
         "LootPackageID": "WorldList.ApolloLoot.Weapon.Sniper",
+        "Weight": 0.25,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_SR.WID_Sniper_ExplosiveRepeater_Athena_SR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.ApolloLoot.Weapon.Sniper.C0;Item:WID.Sniper.ExplosiveRepeater.SR"
+      },
+      "WorldList.ApolloLoot.Weapon.Sniper.05": {
+        "LootPackageID": "WorldList.ApolloLoot.Weapon.Sniper",
         "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
@@ -16881,14 +17241,34 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03",
           "SubPathString": ""
         },
         "PersistentLevel": "",
         "MinWorldLevel": -1,
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
-        "Annotation": ";List:WorldList.ApolloLoot.Weapon.Sniper.C0;Item:WID.Sniper.ExplosiveRepeater.SR"
+        "Annotation": ";List:WorldList.ApolloLoot.Weapon.Sniper.C0;Item:WID.Sniper.Suppressed.Scope.Athena.VR.Ore.T03"
+      },
+      "WorldList.ApolloLoot.Weapon.Sniper.06": {
+        "LootPackageID": "WorldList.ApolloLoot.Weapon.Sniper",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.ApolloLoot.Weapon.Sniper.C0;Item:WID.Sniper.Suppressed.Scope.Athena.SR.Ore.T03"
       },
       "WorldList.ApolloLoot.Weapon.Rocket.01": {
         "LootPackageID": "WorldList.ApolloLoot.Weapon.Rocket",
@@ -17052,7 +17432,7 @@
       },
       "WorldList.Weapons.Rarity.Rare.07": {
         "LootPackageID": "WorldList.Weapons.Rarity.Rare",
-        "Weight": 0.5,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -17181,7 +17561,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_R.WID_Sniper_ExplosiveRepeater_Athena_R",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -17252,7 +17632,7 @@
       },
       "WorldList.Weapons.Rarity.Rare.17": {
         "LootPackageID": "WorldList.Weapons.Rarity.Rare",
-        "Weight": 0.0,
+        "Weight": 0.5,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -17269,6 +17649,26 @@
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
         "Annotation": ";List:WorldList.Weapons.Rarity.Rare.C0;Item:WID.AR.Chrono.RedDotAR.R"
+      },
+      "WorldList.Weapons.Rarity.Rare.18": {
+        "LootPackageID": "WorldList.Weapons.Rarity.Rare",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_R.WID_Shotgun_Chrono_Athena_R",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.Weapons.Rarity.Rare.C0;Item:WID.Shotgun.Chrono.Athena.R"
       },
       "WorldList.Weapons.Rarity.Epic.01": {
         "LootPackageID": "WorldList.Weapons.Rarity.Epic",
@@ -17392,7 +17792,7 @@
       },
       "WorldList.Weapons.Rarity.Epic.07": {
         "LootPackageID": "WorldList.Weapons.Rarity.Epic",
-        "Weight": 0.5,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -17521,7 +17921,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_VR.WID_Sniper_ExplosiveRepeater_Athena_VR",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -17592,7 +17992,7 @@
       },
       "WorldList.Weapons.Rarity.Epic.17": {
         "LootPackageID": "WorldList.Weapons.Rarity.Epic",
-        "Weight": 0.0,
+        "Weight": 0.5,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -17609,6 +18009,26 @@
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
         "Annotation": ";List:WorldList.Weapons.Rarity.Epic.C0;Item:WID.AR.Chrono.RedDotAR.VR"
+      },
+      "WorldList.Weapons.Rarity.Epic.18": {
+        "LootPackageID": "WorldList.Weapons.Rarity.Epic",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_VR.WID_Shotgun_Chrono_Athena_VR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.Weapons.Rarity.Epic.C0;Item:WID.Shotgun.Chrono.Athena.VR"
       },
       "WorldList.Weapons.Rarity.Legendary.01": {
         "LootPackageID": "WorldList.Weapons.Rarity.Legendary",
@@ -17732,7 +18152,7 @@
       },
       "WorldList.Weapons.Rarity.Legendary.07": {
         "LootPackageID": "WorldList.Weapons.Rarity.Legendary",
-        "Weight": 0.5,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -17861,7 +18281,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_SR.WID_Sniper_ExplosiveRepeater_Athena_SR",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -17932,7 +18352,7 @@
       },
       "WorldList.Weapons.Rarity.Legendary.17": {
         "LootPackageID": "WorldList.Weapons.Rarity.Legendary",
-        "Weight": 0.0,
+        "Weight": 0.5,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -17949,6 +18369,26 @@
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
         "Annotation": ";List:WorldList.Weapons.Rarity.Legendary.C0;Item:WID.AR.Chrono.RedDotAR.SR"
+      },
+      "WorldList.Weapons.Rarity.Legendary.18": {
+        "LootPackageID": "WorldList.Weapons.Rarity.Legendary",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_SR.WID_Shotgun_Chrono_Athena_SR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.Weapons.Rarity.Legendary.C0;Item:WID.Shotgun.Chrono.Athena.SR"
       },
       "WorldList.GoldenPOI.DroneLoot.Wep.01": {
         "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
@@ -18272,7 +18712,7 @@
       },
       "WorldList.GoldenPOI.DroneLoot.Wep.17": {
         "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
-        "Weight": 0.4,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -18292,7 +18732,7 @@
       },
       "WorldList.GoldenPOI.DroneLoot.Wep.18": {
         "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
-        "Weight": 0.07,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -18312,7 +18752,7 @@
       },
       "WorldList.GoldenPOI.DroneLoot.Wep.19": {
         "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
-        "Weight": 0.016,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -18332,7 +18772,7 @@
       },
       "WorldList.GoldenPOI.DroneLoot.Wep.20": {
         "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
-        "Weight": 0.004,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -19172,7 +19612,7 @@
       },
       "WorldList.GoldenPOI.DroneLoot.Wep.62": {
         "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
-        "Weight": 0.0,
+        "Weight": 0.4,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -19192,7 +19632,7 @@
       },
       "WorldList.GoldenPOI.DroneLoot.Wep.63": {
         "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
-        "Weight": 0.0,
+        "Weight": 0.07,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -19212,7 +19652,7 @@
       },
       "WorldList.GoldenPOI.DroneLoot.Wep.64": {
         "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
-        "Weight": 0.0,
+        "Weight": 0.016,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -19232,7 +19672,7 @@
       },
       "WorldList.GoldenPOI.DroneLoot.Wep.65": {
         "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
-        "Weight": 0.0,
+        "Weight": 0.004,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -19249,6 +19689,86 @@
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
         "Annotation": ";List:WorldList.GoldenPOI.DroneLoot.Wep.C0;Item:WID.AR.Chrono.RedDotAR.SR"
+      },
+      "WorldList.GoldenPOI.DroneLoot.Wep.66": {
+        "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_UC.WID_Shotgun_Chrono_Athena_UC",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.GoldenPOI.DroneLoot.Wep.C0;Item:WID.Shotgun.Chrono.Athena.UC"
+      },
+      "WorldList.GoldenPOI.DroneLoot.Wep.67": {
+        "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_R.WID_Shotgun_Chrono_Athena_R",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.GoldenPOI.DroneLoot.Wep.C0;Item:WID.Shotgun.Chrono.Athena.R"
+      },
+      "WorldList.GoldenPOI.DroneLoot.Wep.68": {
+        "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_VR.WID_Shotgun_Chrono_Athena_VR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.GoldenPOI.DroneLoot.Wep.C0;Item:WID.Shotgun.Chrono.Athena.VR"
+      },
+      "WorldList.GoldenPOI.DroneLoot.Wep.69": {
+        "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Wep",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_SR.WID_Shotgun_Chrono_Athena_SR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.GoldenPOI.DroneLoot.Wep.C0;Item:WID.Shotgun.Chrono.Athena.SR"
       },
       "WorldList.GoldenPOI.DroneLoot.Consumables.01": {
         "LootPackageID": "WorldList.GoldenPOI.DroneLoot.Consumables",
@@ -19361,7 +19881,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoConsumables/Gameplay/SlapSplash/WID_Chrono_SlapSplash.WID_Chrono_SlapSplash",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -19410,6 +19930,26 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:WorldList.MMO.ChestCache.Rare.WepSetOne.C0;Item:WID.Shotgun.RadicalPump.Athena.R"
       },
+      "WorldList.MMO.ChestCache.Rare.WepSetOne.03": {
+        "LootPackageID": "WorldList.MMO.ChestCache.Rare.WepSetOne",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_R.WID_Shotgun_Chrono_Athena_R",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.MMO.ChestCache.Rare.WepSetOne.C0;Item:WID.Shotgun.Chrono.Athena.R"
+      },
       "WorldList.MMO.ChestCache.Rare.WepSetTwo.01": {
         "LootPackageID": "WorldList.MMO.ChestCache.Rare.WepSetTwo",
         "Weight": 0.0,
@@ -19432,7 +19972,7 @@
       },
       "WorldList.MMO.ChestCache.Rare.WepSetTwo.02": {
         "LootPackageID": "WorldList.MMO.ChestCache.Rare.WepSetTwo",
-        "Weight": 0.5,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -19472,7 +20012,7 @@
       },
       "WorldList.MMO.ChestCache.Rare.WepSetTwo.04": {
         "LootPackageID": "WorldList.MMO.ChestCache.Rare.WepSetTwo",
-        "Weight": 0.0,
+        "Weight": 0.5,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -19550,6 +20090,26 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:WorldList.MMO.ChestCache.Epic.WepSetOne.C0;Item:WID.Shotgun.RadicalPump.Athena.VR"
       },
+      "WorldList.MMO.ChestCache.Epic.WepSetOne.03": {
+        "LootPackageID": "WorldList.MMO.ChestCache.Epic.WepSetOne",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_VR.WID_Shotgun_Chrono_Athena_VR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.MMO.ChestCache.Epic.WepSetOne.C0;Item:WID.Shotgun.Chrono.Athena.VR"
+      },
       "WorldList.MMO.ChestCache.Epic.WepSetTwo.01": {
         "LootPackageID": "WorldList.MMO.ChestCache.Epic.WepSetTwo",
         "Weight": 0.0,
@@ -19572,7 +20132,7 @@
       },
       "WorldList.MMO.ChestCache.Epic.WepSetTwo.02": {
         "LootPackageID": "WorldList.MMO.ChestCache.Epic.WepSetTwo",
-        "Weight": 0.5,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -19612,7 +20172,7 @@
       },
       "WorldList.MMO.ChestCache.Epic.WepSetTwo.04": {
         "LootPackageID": "WorldList.MMO.ChestCache.Epic.WepSetTwo",
-        "Weight": 0.0,
+        "Weight": 0.5,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -19690,6 +20250,26 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:WorldList.MMO.ChestCache.Legendary.WepSetOne.C0;Item:WID.Shotgun.RadicalPump.Athena.SR"
       },
+      "WorldList.MMO.ChestCache.Legendary.WepSetOne.03": {
+        "LootPackageID": "WorldList.MMO.ChestCache.Legendary.WepSetOne",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_SR.WID_Shotgun_Chrono_Athena_SR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.MMO.ChestCache.Legendary.WepSetOne.C0;Item:WID.Shotgun.Chrono.Athena.SR"
+      },
       "WorldList.MMO.ChestCache.Legendary.WepSetTwo.01": {
         "LootPackageID": "WorldList.MMO.ChestCache.Legendary.WepSetTwo",
         "Weight": 0.0,
@@ -19712,7 +20292,7 @@
       },
       "WorldList.MMO.ChestCache.Legendary.WepSetTwo.02": {
         "LootPackageID": "WorldList.MMO.ChestCache.Legendary.WepSetTwo",
-        "Weight": 0.5,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -19752,7 +20332,7 @@
       },
       "WorldList.MMO.ChestCache.Legendary.WepSetTwo.04": {
         "LootPackageID": "WorldList.MMO.ChestCache.Legendary.WepSetTwo",
-        "Weight": 0.0,
+        "Weight": 0.5,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -20521,7 +21101,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoConsumables/Gameplay/SlapSplash/WID_Chrono_SlapSplash.WID_Chrono_SlapSplash",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -21721,7 +22301,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/BigBushGrenade/Items/Athena_BushGrenade.Athena_BushGrenade",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -22852,7 +23432,7 @@
       },
       "WorldList.DisplayCase.HighTier.Weps.09": {
         "LootPackageID": "WorldList.DisplayCase.HighTier.Weps",
-        "Weight": 0.7,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -22872,7 +23452,7 @@
       },
       "WorldList.DisplayCase.HighTier.Weps.10": {
         "LootPackageID": "WorldList.DisplayCase.HighTier.Weps",
-        "Weight": 0.3,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -23132,7 +23712,7 @@
       },
       "WorldList.DisplayCase.HighTier.Weps.23": {
         "LootPackageID": "WorldList.DisplayCase.HighTier.Weps",
-        "Weight": 0.7,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -23152,7 +23732,7 @@
       },
       "WorldList.DisplayCase.HighTier.Weps.24": {
         "LootPackageID": "WorldList.DisplayCase.HighTier.Weps",
-        "Weight": 0.3,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -23432,7 +24012,7 @@
       },
       "WorldList.DisplayCase.HighTier.Weps.38": {
         "LootPackageID": "WorldList.DisplayCase.HighTier.Weps",
-        "Weight": 0.0,
+        "Weight": 0.7,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -23441,7 +24021,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_VR.WID_Sniper_ExplosiveRepeater_Athena_VR",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -23452,7 +24032,7 @@
       },
       "WorldList.DisplayCase.HighTier.Weps.39": {
         "LootPackageID": "WorldList.DisplayCase.HighTier.Weps",
-        "Weight": 0.0,
+        "Weight": 0.3,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -23461,7 +24041,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_SR.WID_Sniper_ExplosiveRepeater_Athena_SR",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -23552,7 +24132,7 @@
       },
       "WorldList.DisplayCase.HighTier.Weps.44": {
         "LootPackageID": "WorldList.DisplayCase.HighTier.Weps",
-        "Weight": 0.0,
+        "Weight": 0.7,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -23572,7 +24152,7 @@
       },
       "WorldList.DisplayCase.HighTier.Weps.45": {
         "LootPackageID": "WorldList.DisplayCase.HighTier.Weps",
-        "Weight": 0.0,
+        "Weight": 0.3,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -23589,6 +24169,86 @@
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
         "Annotation": ";List:WorldList.DisplayCase.HighTier.Weps.C0;Item:WID.AR.Chrono.RedDotAR.SR"
+      },
+      "WorldList.DisplayCase.HighTier.Weps.46": {
+        "LootPackageID": "WorldList.DisplayCase.HighTier.Weps",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_VR.WID_Shotgun_Chrono_Athena_VR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.DisplayCase.HighTier.Weps.C0;Item:WID.Shotgun.Chrono.Athena.VR"
+      },
+      "WorldList.DisplayCase.HighTier.Weps.47": {
+        "LootPackageID": "WorldList.DisplayCase.HighTier.Weps",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_SR.WID_Shotgun_Chrono_Athena_SR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.DisplayCase.HighTier.Weps.C0;Item:WID.Shotgun.Chrono.Athena.SR"
+      },
+      "WorldList.DisplayCase.HighTier.Weps.48": {
+        "LootPackageID": "WorldList.DisplayCase.HighTier.Weps",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.DisplayCase.HighTier.Weps.C0;Item:WID.Sniper.Suppressed.Scope.Athena.VR.Ore.T03"
+      },
+      "WorldList.DisplayCase.HighTier.Weps.49": {
+        "LootPackageID": "WorldList.DisplayCase.HighTier.Weps",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.DisplayCase.HighTier.Weps.C0;Item:WID.Sniper.Suppressed.Scope.Athena.SR.Ore.T03"
       },
       "WorldList.DisplayCase.Exotics.01": {
         "LootPackageID": "WorldList.DisplayCase.Exotics",
@@ -23890,6 +24550,26 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:WorldList.DisplayCase.Exotics.C0;Item:WID.WaffleTruck.Sniper.DragonBreath"
       },
+      "WorldList.DisplayCase.Exotics.16": {
+        "LootPackageID": "WorldList.DisplayCase.Exotics",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 2,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoConsumables/Gameplay/SlapSplash/WID_Chrono_ExoticSlapSplash.WID_Chrono_ExoticSlapSplash",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.DisplayCase.Exotics.C0;Item:Consumable.Chrono.Exotic.SlapSplash"
+      },
       "WorldList.DisplayCase.Healing.01": {
         "LootPackageID": "WorldList.DisplayCase.Healing",
         "Weight": 0.0,
@@ -23981,7 +24661,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoConsumables/Gameplay/SlapSplash/WID_Chrono_SlapSplash.WID_Chrono_SlapSplash",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -25532,7 +26212,7 @@
       },
       "WorldList.HighQuality.Animal.LowThreat.Wep.Medium.11": {
         "LootPackageID": "WorldList.HighQuality.Animal.LowThreat.Wep.Medium",
-        "Weight": 0.5,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -26172,7 +26852,7 @@
       },
       "WorldList.HighQuality.Animal.MediumThreat.Wep.Medium.11": {
         "LootPackageID": "WorldList.HighQuality.Animal.MediumThreat.Wep.Medium",
-        "Weight": 0.5,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -26772,7 +27452,7 @@
       },
       "WorldList.HighQuality.Animal.HighThreat.Wep.Medium.11": {
         "LootPackageID": "WorldList.HighQuality.Animal.HighThreat.Wep.Medium",
-        "Weight": 0.5,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -28090,6 +28770,66 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:WorldList.FlopperHigh.Shell.C0;Item:WID.Shotgun.AutoDrum.Athena.SR.Ore.T03"
       },
+      "WorldList.FlopperHigh.Shell.22": {
+        "LootPackageID": "WorldList.FlopperHigh.Shell",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_R.WID_Shotgun_Chrono_Athena_R",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.FlopperHigh.Shell.C0;Item:WID.Shotgun.Chrono.Athena.R"
+      },
+      "WorldList.FlopperHigh.Shell.23": {
+        "LootPackageID": "WorldList.FlopperHigh.Shell",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_VR.WID_Shotgun_Chrono_Athena_VR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.FlopperHigh.Shell.C0;Item:WID.Shotgun.Chrono.Athena.VR"
+      },
+      "WorldList.FlopperHigh.Shell.24": {
+        "LootPackageID": "WorldList.FlopperHigh.Shell",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ChronoShotgun/WID_Shotgun_Chrono_Athena_SR.WID_Shotgun_Chrono_Athena_SR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.FlopperHigh.Shell.C0;Item:WID.Shotgun.Chrono.Athena.SR"
+      },
       "WorldList.FlopperHigh.Medium.01": {
         "LootPackageID": "WorldList.FlopperHigh.Medium",
         "Weight": 0.0,
@@ -28332,7 +29072,7 @@
       },
       "WorldList.FlopperHigh.Medium.13": {
         "LootPackageID": "WorldList.FlopperHigh.Medium",
-        "Weight": 0.8,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -28352,7 +29092,7 @@
       },
       "WorldList.FlopperHigh.Medium.14": {
         "LootPackageID": "WorldList.FlopperHigh.Medium",
-        "Weight": 0.15,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -28372,7 +29112,7 @@
       },
       "WorldList.FlopperHigh.Medium.15": {
         "LootPackageID": "WorldList.FlopperHigh.Medium",
-        "Weight": 0.05,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -28572,7 +29312,7 @@
       },
       "WorldList.FlopperHigh.Medium.25": {
         "LootPackageID": "WorldList.FlopperHigh.Medium",
-        "Weight": 0.0,
+        "Weight": 0.8,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -28592,7 +29332,7 @@
       },
       "WorldList.FlopperHigh.Medium.26": {
         "LootPackageID": "WorldList.FlopperHigh.Medium",
-        "Weight": 0.0,
+        "Weight": 0.15,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -28612,7 +29352,7 @@
       },
       "WorldList.FlopperHigh.Medium.27": {
         "LootPackageID": "WorldList.FlopperHigh.Medium",
-        "Weight": 0.0,
+        "Weight": 0.05,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -30061,7 +30801,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/BigBushGrenade/Items/Athena_BushGrenade.Athena_BushGrenade",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -30192,7 +30932,7 @@
       },
       "WorldList.AthenaHighConsumables.22": {
         "LootPackageID": "WorldList.AthenaHighConsumables",
-        "Weight": 0.0,
+        "Weight": 0.3,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -30232,7 +30972,7 @@
       },
       "WorldList.AthenaHighConsumables.24": {
         "LootPackageID": "WorldList.AthenaHighConsumables",
-        "Weight": 0.0,
+        "Weight": 0.2,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -30241,7 +30981,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoCloak/Cloak/WID_Chrono_Cloak.WID_Chrono_Cloak",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -30261,7 +31001,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoConsumables/Gameplay/SlapSplash/WID_Chrono_SlapSplash.WID_Chrono_SlapSplash",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -30501,7 +31241,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/BigBushGrenade/Items/Athena_BushGrenade.Athena_BushGrenade",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -31021,7 +31761,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/BigBushGrenade/Items/Athena_BushGrenade.Athena_BushGrenade",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -31172,7 +31912,7 @@
       },
       "WorldList.AthenaConsumables.28": {
         "LootPackageID": "WorldList.AthenaConsumables",
-        "Weight": 0.0,
+        "Weight": 0.25,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -31252,7 +31992,7 @@
       },
       "WorldList.AthenaConsumables.32": {
         "LootPackageID": "WorldList.AthenaConsumables",
-        "Weight": 0.0,
+        "Weight": 0.15,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -31261,7 +32001,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoCloak/Cloak/WID_Chrono_Cloak.WID_Chrono_Cloak",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -31281,7 +32021,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoConsumables/Gameplay/SlapSplash/WID_Chrono_SlapSplash.WID_Chrono_SlapSplash",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -31301,7 +32041,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoCloak/Cloak/WID_Chrono_Cloak_UR_JungBoss.WID_Chrono_Cloak_UR_JungBoss",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -31341,7 +32081,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoConsumables/Gameplay/SlapSplash/WID_Chrono_SlapSplash.WID_Chrono_SlapSplash",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -31381,7 +32121,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoConsumables/Gameplay/SlapSplash/WID_Chrono_ExoticSlapSplash.WID_Chrono_ExoticSlapSplash",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -31950,6 +32690,86 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:WorldList.HeistBoss.Consumables.C0;Item:Consumable.HealSpray"
       },
+      "WorldList.JungleBoss.Wep.01": {
+        "LootPackageID": "WorldList.JungleBoss.Wep",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/FlipperGameplay/Items/Weapons/RedDotARS25/WID_Assault_Chrono_RedDotAR_Athena_UR_JungBoss.WID_Assault_Chrono_RedDotAR_Athena_UR_JungBoss",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.JungleBoss.Wep.C0;Item:WID.AR.Chrono.RedDotAR.JungBoss"
+      },
+      "WorldList.JungleBoss.CloakDevice.01": {
+        "LootPackageID": "WorldList.JungleBoss.CloakDevice",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoCloak/Cloak/WID_Chrono_Cloak_UR_JungBoss.WID_Chrono_Cloak_UR_JungBoss",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.JungleBoss.CloakDevice.C0;Item:Consumable.Chrono.Cloak.JungBoss"
+      },
+      "WorldList.JungleBoss.Misc.01": {
+        "LootPackageID": "WorldList.JungleBoss.Misc",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoSwarmGrenade/Items/WID_Athena_Swarm_Grenade.WID_Athena_Swarm_Grenade",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.JungleBoss.Misc.C0;Item:Consumable.SwarmGrenade"
+      },
+      "WorldList.JungleBoss.Misc.02": {
+        "LootPackageID": "WorldList.JungleBoss.Misc",
+        "Weight": 0.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 0,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoSwarmGrenade/Items/WID_Athena_Swarm_Grenade.WID_Athena_Swarm_Grenade",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:WorldList.JungleBoss.Misc.C0;Item:Consumable.SwarmGrenade"
+      },
       "WorldList.Boss.CloneBunker.Wep.01": {
         "LootPackageID": "WorldList.Boss.CloneBunker.Wep",
         "Weight": 1.0,
@@ -32332,7 +33152,7 @@
       },
       "WorldList.Specialist.Scout.SniperWep.01": {
         "LootPackageID": "WorldList.Specialist.Scout.SniperWep",
-        "Weight": 1.0,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -32352,7 +33172,7 @@
       },
       "WorldList.Specialist.Scout.SniperWep.02": {
         "LootPackageID": "WorldList.Specialist.Scout.SniperWep",
-        "Weight": 0.0,
+        "Weight": 1.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -32361,7 +33181,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_R.WID_Sniper_ExplosiveRepeater_Athena_R",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -32381,7 +33201,7 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage",
+          "AssetPathName": "/BigBushGrenade/Items/Athena_BushGrenade.Athena_BushGrenade",
           "SubPathString": ""
         },
         "PersistentLevel": "",
@@ -33670,8 +34490,8 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:NPCItemList.SMG.SR.C0;Item:WID.Pistol.AutoHeavyPDW.Athena.SR.Ore.T03"
       },
-      "NPCItemList.SMG.UC.03": {
-        "LootPackageID": "NPCItemList.SMG.UC",
+      "NPCItemList.Assault.UC.01": {
+        "LootPackageID": "NPCItemList.Assault.UC",
         "Weight": 1.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
@@ -33688,10 +34508,10 @@
         "MinWorldLevel": -1,
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
-        "Annotation": ";List:NPCItemList.SMG.UC.C0;Item:WID.Assault.Chrono.Pan.Rifle.UC"
+        "Annotation": ";List:NPCItemList.Assault.UC.C0;Item:WID.Assault.Chrono.Pan.Rifle.UC"
       },
-      "NPCItemList.SMG.R.03": {
-        "LootPackageID": "NPCItemList.SMG.R",
+      "NPCItemList.Assault.R.01": {
+        "LootPackageID": "NPCItemList.Assault.R",
         "Weight": 1.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
@@ -33708,10 +34528,10 @@
         "MinWorldLevel": -1,
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
-        "Annotation": ";List:NPCItemList.SMG.R.C0;Item:WID.Assault.Chrono.Pan.Rifle.R"
+        "Annotation": ";List:NPCItemList.Assault.R.C0;Item:WID.Assault.Chrono.Pan.Rifle.R"
       },
-      "NPCItemList.SMG.VR.03": {
-        "LootPackageID": "NPCItemList.SMG.VR",
+      "NPCItemList.Assault.VR.01": {
+        "LootPackageID": "NPCItemList.Assault.VR",
         "Weight": 1.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
@@ -33728,10 +34548,10 @@
         "MinWorldLevel": -1,
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
-        "Annotation": ";List:NPCItemList.SMG.VR.C0;Item:WID.Assault.Chrono.Pan.Rifle.VR"
+        "Annotation": ";List:NPCItemList.Assault.VR.C0;Item:WID.Assault.Chrono.Pan.Rifle.VR"
       },
-      "NPCItemList.SMG.SR.03": {
-        "LootPackageID": "NPCItemList.SMG.SR",
+      "NPCItemList.Assault.SR.01": {
+        "LootPackageID": "NPCItemList.Assault.SR",
         "Weight": 1.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
@@ -33748,9 +34568,9 @@
         "MinWorldLevel": -1,
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
-        "Annotation": ";List:NPCItemList.SMG.SR.C0;Item:WID.Assault.Chrono.Pan.Rifle.SR"
+        "Annotation": ";List:NPCItemList.Assault.SR.C0;Item:WID.Assault.Chrono.Pan.Rifle.SR"
       },
-      "NPCItemList.Assault.UC.01": {
+      "NPCItemList.Assault.UC.02": {
         "LootPackageID": "NPCItemList.Assault.UC",
         "Weight": 1.0,
         "NamedWeightMult": "None",
@@ -33770,7 +34590,7 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:NPCItemList.Assault.UC.C0;Item:WID.Assault.Radical.CoreAR.Athena.UC"
       },
-      "NPCItemList.Assault.R.01": {
+      "NPCItemList.Assault.R.02": {
         "LootPackageID": "NPCItemList.Assault.R",
         "Weight": 1.0,
         "NamedWeightMult": "None",
@@ -33790,7 +34610,7 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:NPCItemList.Assault.R.C0;Item:WID.Assault.Radical.CoreAR.Athena.R"
       },
-      "NPCItemList.Assault.VR.01": {
+      "NPCItemList.Assault.VR.02": {
         "LootPackageID": "NPCItemList.Assault.VR",
         "Weight": 1.0,
         "NamedWeightMult": "None",
@@ -33810,7 +34630,7 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:NPCItemList.Assault.VR.C0;Item:WID.Assault.Radical.CoreAR.Athena.VR"
       },
-      "NPCItemList.Assault.SR.01": {
+      "NPCItemList.Assault.SR.02": {
         "LootPackageID": "NPCItemList.Assault.SR",
         "Weight": 1.0,
         "NamedWeightMult": "None",
@@ -33830,6 +34650,86 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:NPCItemList.Assault.SR.C0;Item:WID.Assault.Radical.CoreAR.Athena.SR"
       },
+      "NPCItemList.Assault.UC.03": {
+        "LootPackageID": "NPCItemList.Assault.UC",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/FlipperGameplay/Items/Weapons/RedDotARS25/WID_Assault_Chrono_RedDotAR_Athena_UC.WID_Assault_Chrono_RedDotAR_Athena_UC",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:NPCItemList.Assault.UC.C0;Item:WID.AR.Chrono.RedDotAR.UC"
+      },
+      "NPCItemList.Assault.R.03": {
+        "LootPackageID": "NPCItemList.Assault.R",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/FlipperGameplay/Items/Weapons/RedDotARS25/WID_Assault_Chrono_RedDotAR_Athena_R.WID_Assault_Chrono_RedDotAR_Athena_R",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:NPCItemList.Assault.R.C0;Item:WID.AR.Chrono.RedDotAR.R"
+      },
+      "NPCItemList.Assault.VR.03": {
+        "LootPackageID": "NPCItemList.Assault.VR",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/FlipperGameplay/Items/Weapons/RedDotARS25/WID_Assault_Chrono_RedDotAR_Athena_VR.WID_Assault_Chrono_RedDotAR_Athena_VR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:NPCItemList.Assault.VR.C0;Item:WID.AR.Chrono.RedDotAR.VR"
+      },
+      "NPCItemList.Assault.SR.03": {
+        "LootPackageID": "NPCItemList.Assault.SR",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/FlipperGameplay/Items/Weapons/RedDotARS25/WID_Assault_Chrono_RedDotAR_Athena_SR.WID_Assault_Chrono_RedDotAR_Athena_SR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:NPCItemList.Assault.SR.C0;Item:WID.AR.Chrono.RedDotAR.SR"
+      },
       "NPCItemList.Sniper.R.01": {
         "LootPackageID": "NPCItemList.Sniper.R",
         "Weight": 1.0,
@@ -33841,14 +34741,14 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Sniper_Heavy_Athena_R_Ore_T03.WID_Sniper_Heavy_Athena_R_Ore_T03",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_R.WID_Sniper_ExplosiveRepeater_Athena_R",
           "SubPathString": ""
         },
         "PersistentLevel": "",
         "MinWorldLevel": -1,
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
-        "Annotation": ";List:NPCItemList.Sniper.R.C0;Item:WID.Sniper.Heavy.Athena.R.Ore.T03"
+        "Annotation": ";List:NPCItemList.Sniper.R.C0;Item:WID.Sniper.ExplosiveRepeater.R"
       },
       "NPCItemList.Sniper.VR.01": {
         "LootPackageID": "NPCItemList.Sniper.VR",
@@ -33861,14 +34761,14 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Sniper_Heavy_Athena_VR_Ore_T03.WID_Sniper_Heavy_Athena_VR_Ore_T03",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_VR.WID_Sniper_ExplosiveRepeater_Athena_VR",
           "SubPathString": ""
         },
         "PersistentLevel": "",
         "MinWorldLevel": -1,
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
-        "Annotation": ";List:NPCItemList.Sniper.VR.C0;Item:WID.Sniper.Heavy.Athena.VR.Ore.T03"
+        "Annotation": ";List:NPCItemList.Sniper.VR.C0;Item:WID.Sniper.ExplosiveRepeater.VR"
       },
       "NPCItemList.Sniper.SR.01": {
         "LootPackageID": "NPCItemList.Sniper.SR",
@@ -33881,14 +34781,14 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Weapons/WID_Sniper_Heavy_Athena_SR_Ore_T03.WID_Sniper_Heavy_Athena_SR_Ore_T03",
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_SR.WID_Sniper_ExplosiveRepeater_Athena_SR",
           "SubPathString": ""
         },
         "PersistentLevel": "",
         "MinWorldLevel": -1,
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
-        "Annotation": ";List:NPCItemList.Sniper.SR.C0;Item:WID.Sniper.Heavy.Athena.SR.Ore.T03"
+        "Annotation": ";List:NPCItemList.Sniper.SR.C0;Item:WID.Sniper.ExplosiveRepeater.SR"
       },
       "NPCItemList.DMR.UC.01": {
         "LootPackageID": "NPCItemList.DMR.UC",
@@ -34521,26 +35421,6 @@
         "RequiredTag": "None",
         "LootPackageCall": "",
         "ItemDefinition": {
-          "AssetPathName": "/Game/Athena/Items/Gameplay/WaffleTruck/AGID_WaffleTruck_Rocket_Slurp.AGID_WaffleTruck_Rocket_Slurp",
-          "SubPathString": ""
-        },
-        "PersistentLevel": "",
-        "MinWorldLevel": -1,
-        "MaxWorldLevel": -1,
-        "bAllowBonusDrops": true,
-        "Annotation": ";List:NPCItemList.Special.C0;Item:AGID.WaffleTruck.Rocket.Slurp"
-      },
-      "NPCItemList.Special.05": {
-        "LootPackageID": "NPCItemList.Special",
-        "Weight": 1.0,
-        "NamedWeightMult": "None",
-        "PotentialNamedWeights": [],
-        "Count": 1,
-        "LootPackageCategory": 0,
-        "GameplayTags": [],
-        "RequiredTag": "None",
-        "LootPackageCall": "",
-        "ItemDefinition": {
           "AssetPathName": "/Game/Athena/Items/Weapons/WaffleTruck/WID_WaffleTruck_Pistol_Tracking.WID_WaffleTruck_Pistol_Tracking",
           "SubPathString": ""
         },
@@ -34550,7 +35430,7 @@
         "bAllowBonusDrops": true,
         "Annotation": ";List:NPCItemList.Special.C0;Item:WID.WaffleTruck.Pistol.Tracking"
       },
-      "NPCItemList.Special.06": {
+      "NPCItemList.Special.05": {
         "LootPackageID": "NPCItemList.Special",
         "Weight": 1.0,
         "NamedWeightMult": "None",
@@ -34569,6 +35449,26 @@
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
         "Annotation": ";List:NPCItemList.Special.C0;Item:WID.Chrono.AncientWeapon"
+      },
+      "NPCItemList.Special.06": {
+        "LootPackageID": "NPCItemList.Special",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoCloak/Cloak/WID_Chrono_Cloak.WID_Chrono_Cloak",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:NPCItemList.Special.C0;Item:Consumable.Chrono.Cloak"
       },
       "NPCItemList.Heisted.Assault.01": {
         "LootPackageID": "NPCItemList.Heisted.Assault",
@@ -35152,7 +36052,7 @@
       },
       "NPCItemList.S25.HeavySniperRifle.01": {
         "LootPackageID": "NPCItemList.S25.HeavySniperRifle",
-        "Weight": 1.0,
+        "Weight": 0.0,
         "NamedWeightMult": "None",
         "PotentialNamedWeights": [],
         "Count": 1,
@@ -35529,6 +36429,126 @@
         "MaxWorldLevel": -1,
         "bAllowBonusDrops": true,
         "Annotation": ";List:NPCItemList.S25.Grenade.C0;Item:Consumable.AthenaGrenade"
+      },
+      "NPCItemList.S25.HavocSuppressedAR.01": {
+        "LootPackageID": "NPCItemList.S25.HavocSuppressedAR",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/RadicalWeaponsGameplay/Weapons/RadicalCoreAR/WID_Assault_Radical_CoreAR_Athena_VR.WID_Assault_Radical_CoreAR_Athena_VR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:NPCItemList.S25.HavocSuppressedAR.C0;Item:WID.Assault.Radical.CoreAR.Athena.VR"
+      },
+      "NPCItemList.S25.FishingRod.01": {
+        "LootPackageID": "NPCItemList.S25.FishingRod",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/FloppingRabbit/WID_Athena_FloppingRabbit.WID_Athena_FloppingRabbit",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:NPCItemList.S25.FishingRod.C0;Item:Consumable.Rod"
+      },
+      "NPCItemList.S25.ShieldFish.01": {
+        "LootPackageID": "NPCItemList.S25.ShieldFish",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/ShieldFlopper/WID_Athena_Flopper_Shield.WID_Athena_Flopper_Shield",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:NPCItemList.S25.ShieldFish.C0;Item:Consumable.ShieldFlopper"
+      },
+      "NPCItemList.S25.Flopper.01": {
+        "LootPackageID": "NPCItemList.S25.Flopper",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/WID_Athena_Flopper.WID_Athena_Flopper",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:NPCItemList.S25.Flopper.C0;Item:Consumable.FlopperBig"
+      },
+      "NPCItemList.S25.CloakingDevice.01": {
+        "LootPackageID": "NPCItemList.S25.CloakingDevice",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoCloak/Cloak/WID_Chrono_Cloak.WID_Chrono_Cloak",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:NPCItemList.S25.CloakingDevice.C0;Item:Consumable.Chrono.Cloak"
+      },
+      "NPCItemList.S25.ExplosiveRepeater.01": {
+        "LootPackageID": "NPCItemList.S25.ExplosiveRepeater",
+        "Weight": 1.0,
+        "NamedWeightMult": "None",
+        "PotentialNamedWeights": [],
+        "Count": 1,
+        "LootPackageCategory": 0,
+        "GameplayTags": [],
+        "RequiredTag": "None",
+        "LootPackageCall": "",
+        "ItemDefinition": {
+          "AssetPathName": "/ChronoWeaponGameplay/Items/ExplosiveRepeater/WID_Sniper_ExplosiveRepeater_Athena_VR.WID_Sniper_ExplosiveRepeater_Athena_VR",
+          "SubPathString": ""
+        },
+        "PersistentLevel": "",
+        "MinWorldLevel": -1,
+        "MaxWorldLevel": -1,
+        "bAllowBonusDrops": true,
+        "Annotation": ";List:NPCItemList.S25.ExplosiveRepeater.C0;Item:WID.Sniper.ExplosiveRepeater.VR"
       }
     }
   }
